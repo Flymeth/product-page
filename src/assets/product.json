@@ -1,0 +1,120 @@
+{
+    "name": "100% Lether Sofa",
+    "descriptions": [
+        "Lorem ipsum dolor sit amet consectetur. Porttitor amet purus diam amet diam sed. Et odio fermentum dolor neque pulvinar dignissim ipsum eu. Elit aliquam morbi amet consectetur consequat quis commodo ut. Felis viverra cras id tristique. Viverra tempus nec natoque vel.",
+        "Hendrerit viverra lacus sed facilisis. Enim vitae quam est pulvinar varius augue posuere pretium. Pharetra nulla elementum proin vel. Sagittis velit fames a lobortis massa elit dictum commodo aliquam. Condimentum vitae aliquet egestas tortor magna sit habitasse. Mauris amet ornare tortor auctor sit tincidunt rhoncus pharetra. Pharetra netus rhoncus dis a diam viverra augue velit facilisi. Sollicitudin cursus erat lacus bibendum. Gravida scelerisque id id neque.",
+        "Amet quam ac gravida nec diam pretium sed. Vitae neque ullamcorper sollicitudin feugiat. Magna vitae gravida congue pellentesque a. Risus vel condimentum arcu donec. Quis ultrices nunc lorem aenean ornare."
+    ],
+    "price": {
+        "money": "$",
+        "value": 3.299
+    },
+    "details": [
+        {
+            "description": "Width",
+            "value": "682cm"
+        },
+        {
+            "description": "Height",
+            "value": "368cm"
+        },
+        {
+            "description": "Lenth",
+            "value": "129cm"
+        },
+        {
+            "description": "Weight",
+            "value": "92kg"
+        },
+        {
+            "description": "Color",
+            "value": "Blue"
+        },
+        {
+            "description": "Material",
+            "value": "100% Lether"
+        }
+    ],
+    "reviews": [
+        {
+            "author": {
+                "name": "Xx_Gerard_xX",
+                "picture": "https://thispersondoesnotexist.com/image"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Xavier",
+                "picture": "https://thiscatdoesnotexist.com/"
+            },
+            "review": 1,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "NoBody02",
+                "picture": "https://fakeface.rest/face/view"
+            },
+            "review": 1,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "FanBoy007",
+                "picture": "https://www.thiswaifudoesnotexist.net/example-94541.jpg"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Hater2077",
+                "picture": "https://thispersondoesnotexist.com/image"
+            },
+            "review": 0,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Paul Olich",
+                "picture": "https://www.thiswaifudoesnotexist.net/example-96179.jpg"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Alban Lor",
+                "picture": "https://faces.pennantwars.com/734832_young.png"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "O.o",
+                "picture": "https://thisartworkdoesnotexist.com/"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Super Man",
+                "picture": "https://faces.pennantwars.com/553859_young.png"
+            },
+            "review": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur. Tincidunt magnis malesuada ac massa elit ut et dictumst imperdiet. Sit tortor lorem pharetra mattis eget dui metus."
+        },
+        {
+            "author": {
+                "name": "Flymeth",
+                "picture": "https://flymeth.net/assets/logos/v2/Logo - orange.png"
+            },
+            "review": 2,
+            "comment": "Loved this product ❤️❤️❤️❤️"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+@import "./interactiveElements";
+
+button {
+    font-family: 'Elephant', serif;
+    background-color: #DEAD3075;
+    border-radius: 5px;
+    outline: none;
+    color: #000;
+    border: 1.5px solid #000;
+    height: 41px;
+    width: 80%;
+    cursor: pointer;
+    @include interactionElement;
+
+    transition: .15s;
+
+    .captions {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        img {
+            transition: .25s, opacity .15s;
+            width: 20px;
+            margin-right: 5px;
+        }
+        p {
+            font-size: 12.5px;
+        }
+    }
+
+    &:hover {
+        background-color: #DEAD3050;
+        border-radius: 10px;
+        .captions img {
+            width: 0;
+            opacity: 0;
+            margin-right: 0;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Victorian Two Seat Sofa
+* source:	https://sketchfab.com/3d-models/victorian-two-seat-sofa-e12fbec651a84a1b9263f6c02e78c741
+* author:	Jamie McFarlane (https://sketchfab.com/jamiemcfarlane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Victorian Two Seat Sofa" (https://sketchfab.com/3d-models/victorian-two-seat-sofa-e12fbec651a84a1b9263f6c02e78c741) by Jamie McFarlane (https://sketchfab.com/jamiemcfarlane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

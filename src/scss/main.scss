@@ -1,0 +1,61 @@
+@import url('https://fonts.cdnfonts.com/css/elephant');
+@import url('https://fonts.cdnfonts.com/css/bree-serif-2');
+@import url('https://fonts.cdnfonts.com/css/shrikhand');
+
+*, ::before, ::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    font-family: 'Elephant', serif;
+    height: 100vh;
+    background-image: url("../assets/bg.svg");
+    background-size: 115%;
+    background-position: center;
+    background-origin: content-box;
+    color: #000;
+    overflow: hidden;
+
+    --nav-height: 7.5%;
+}
+
+main {
+    padding: 15px 7.5px;
+    max-width: 1440px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    height: calc(100% - var(--nav-height));
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+footer {
+    position: absolute;
+    bottom: 2.5px;
+    padding: 0 2.5px;
+    left: 0;
+    width: 100%;
+    
+    p {
+        opacity: .5;
+        text-align: right;
+        font-family: 'Bree Serif', sans-serif;
+        font-size: 15px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+        transition: .15s opacity;
+
+        &:hover {opacity: 1;}
+        a {
+            color: #FF7B22;
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}

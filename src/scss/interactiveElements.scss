@@ -1,0 +1,7 @@
+@mixin interactionElement {
+    box-shadow: 0 2.5px 15px -5px #1e1e1e;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
