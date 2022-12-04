@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e456664f.css",
-    "main.js": "/static/js/main.0f73151d.js",
-    "static/media/sofa.glb": "/static/media/sofa.a49edc5f38c7d0646e2d.glb",
-    "static/media/floor.jpg": "/static/media/floor.a1b1edd5fcb400556470.jpg",
-    "static/media/truck.svg": "/static/media/truck.e81a6516fb206c6d934c587ba242a7f4.svg",
-    "static/media/bg.svg": "/static/media/bg.72ca8635bc70ad8de975.svg",
-    "static/media/cart.svg": "/static/media/cart.90b890b97414543d9c9c4eca237ee43e.svg",
-    "static/media/icon.svg": "/static/media/icon.c51ee34f1ce98fe842e3b789af12c0af.svg",
-    "index.html": "/index.html",
-    "static/media/plus.svg": "/static/media/plus.116d97236c96869f4d5ba01ec57d4bbb.svg",
-    "static/media/minus.svg": "/static/media/minus.761968dc3087f67dba5efa30b9dcaf44.svg",
-    "main.e456664f.css.map": "/static/css/main.e456664f.css.map",
-    "main.0f73151d.js.map": "/static/js/main.0f73151d.js.map"
+    "main.css": "./static/css/main.9f7054c9.css",
+    "main.js": "./static/js/main.9840ca11.js",
+    "static/media/sofa.glb": "./static/media/sofa.a49edc5f38c7d0646e2d.glb",
+    "static/media/floor.jpg": "./static/media/floor.a1b1edd5fcb400556470.jpg",
+    "static/media/truck.svg": "./static/media/truck.e81a6516fb206c6d934c587ba242a7f4.svg",
+    "static/media/bg.svg": "./static/media/bg.72ca8635bc70ad8de975.svg",
+    "static/media/cart.svg": "./static/media/cart.90b890b97414543d9c9c4eca237ee43e.svg",
+    "static/media/icon.svg": "./static/media/icon.c51ee34f1ce98fe842e3b789af12c0af.svg",
+    "index.html": "./index.html",
+    "static/media/plus.svg": "./static/media/plus.116d97236c96869f4d5ba01ec57d4bbb.svg",
+    "static/media/minus.svg": "./static/media/minus.761968dc3087f67dba5efa30b9dcaf44.svg",
+    "main.9f7054c9.css.map": "./static/css/main.9f7054c9.css.map",
+    "main.9840ca11.js.map": "./static/js/main.9840ca11.js.map"
   },
   "entrypoints": [
-    "static/css/main.e456664f.css",
-    "static/js/main.0f73151d.js"
+    "static/css/main.9f7054c9.css",
+    "static/js/main.9840ca11.js"
   ]
 }
