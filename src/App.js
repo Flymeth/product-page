@@ -12,7 +12,7 @@ function App() {
 
   const pixelsPerDistance= .05
 
-  const cantUseBgAnimation = navigator.userAgentData.mobile ?? navigator.userAgent.toLowerCase().includes('mobile')
+  const cantUseBgAnimation = navigator.userAgentData?.mobile ?? navigator.userAgent.toLowerCase().includes('mobile')
   if(!cantUseBgAnimation) window.onmousemove = (e) => {
     const clientPosition = [e.clientX, e.clientY]
 
